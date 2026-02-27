@@ -1,0 +1,1 @@
+bel.6;e,'fp,mo,4;5,'net-etype,'4g;6,'net-dlink,10.;6,'cls,0.017575986517800225;7,'webdriverDetected;e,'fcp,mo,7;6,'timeToFirstByte,262.40000000037253;6,'firstByteToFCP,553.5999999996275;5,'loadState,'dom-interactive;5,1,2;6,3,10.;6,4,0.017575986517800225;7,5;e,'load,xa,4;5,1,2;6,3,10.;6,4,0.017575986517800225;7,5
