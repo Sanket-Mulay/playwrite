@@ -78,5 +78,7 @@ public class PlaywrightTest {
 
 	            System.out.println("Trace saved to trace.zip");
 	        }
+		
+		
 	    }
 	}

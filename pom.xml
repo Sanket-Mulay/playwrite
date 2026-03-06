@@ -25,6 +25,11 @@
             <artifactId>playwright</artifactId>
             <version>1.58.0</version>
         </dependency>
+        <dependency>
+  <groupId>com.microsoft.playwright</groupId>
+  <artifactId>playwright</artifactId>
+  <version>1.42.0</version>  <!-- or latest -->
+</dependency>
     </dependencies>
 
     <!-- Compiler Plugin -->
